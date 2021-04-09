@@ -1,6 +1,6 @@
 # MHW2
 
-# PRODUCTS PAGE: HTML, CSS $ JAVASCRIPT
+# PRODUCTS PAGE: HTML, CSS & JAVASCRIPT
 
 ## MHW2 POLO FOTO
 "Polo Foto" is a web application created for the mini-homework 2 of "Web Programming" with the aim to manage the online shop of a photographic print shop.
