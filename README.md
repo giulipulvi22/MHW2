@@ -1,6 +1,6 @@
 # MHW2
 
-# PRODUCTS PAGE: HTML, CSS & JAVASCRIPT
+# PRODUCTS PAGE: JAVASCRIPT
 
 ## MHW2 POLO FOTO
 "Polo Foto" is a web application created for the mini-homework 2 of "Web Programming" with the aim to manage the online shop of a photographic print shop.
@@ -33,7 +33,7 @@ This web site is divided in 5 sections:
  
 |  If you want to check HTML and CSS's code | If you want to see the GUI |
 |:--------------|:-------------:|
-| Right click on the file (MHW1.html and/or MHW1.css |  Install "xampp" |
+| Right click on the file (MHW2.html and/or MHW2.css and/or MH2.js |  Install "xampp" |
 | Select "open with" | Import the files in OS(C:)/xampp/htdocs/MHW1 |
 | Select your favorite editor | Open "xampp" and run "apaches" |
 | Now you can read the code | Open Chrome and search "localhost/MHW1/MHW1.html" |
