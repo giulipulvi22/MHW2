@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Polo Foto - Products</title>
+        <link rel="stylesheet" href="MHW2.css">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
+        <script src="MHW2contents.js" defer></script>
+        <script src="MHW2script.js" defer></script>
+    </head>
+
+    <body>
+
+            <header>
+                <nav>
+                    <span id="nome">
+                        Polo Foto
+                    </span>
+    
+                    <div id="link">
+                        <a href="../MHW1/MHW1.html">Home</a>
+                        <a href="">About us</a>
+                        <a href="">Products</a>
+                        <a href="">Dove siamo</a>
+                        <a href="">Carrello</a>
+                    </div>
+    
+                    <div id="menu">
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                    </div>
+                </nav>
+                <span id="intestazione">
+                    le nostre foto
+                </span>
+                <p>Polo Foto > Products</p> 
+            </header>
+
+        <section>
+            <div id="filtri">
+            <div id="fltr">
+                <div>
+                    <h4 id="filtro">Grandezza minima</h4>
+                    <p>20cm</p>
+                    <p>25cm</p>
+                    <p>30cm</p>
+                </div>
+                <div>
+                    <h4 id="filtro">Grandezza massima</h4>
+                    <p>50cm</p>
+                    <p>100cm</p>
+                    <p>200cm</p>
+                </div>
+                <div>
+                    <h4 id="filtro">Prezzo minimo</h4>
+                    <p>20eur</p>
+                    <p>25eur</p>
+                    <p>30eur</p>
+                </div>
+                <div>
+                    <h4 id="filtro">Prezzo Massimo</h4>
+                    <p>50eur</p>
+                    <p>100eur</p>
+                    <p></p>200eur</p>
+                </div>
+            </div>
+
+            <input type="text" id="barra" placeholder="Cerca" onkeyup="find()">
+
+            </div>
+            <article>
+                <div class="item" data-item="pano"></div>
+                <div class="item" data-item="paola"></div>
+                <div class="item" data-item="buda"></div>
+                <div class="item" data-item="lond"></div>
+                <div class="item" data-item="carlo"></div>
+                <div class="item" data-item="lamp"></div>
+            </article>
+
+            <div id="carrello" class="hidden">
+                <h5>Articoli nel carrello</h5>
+                <div id="elementi"></div>
+            </div>
+        </section>
+        
+        <footer>
+            <span id="utils">
+                created by <br>
+                Giulia Pulvirenti <br>
+                O46002059
+            </span>
+            <div class="logo">
+                <img src="immagini/logo.png">
+                <p>Polo Foto</p>
+            </div>
+        </footer>
+    </body>
+</html>
